@@ -34,3 +34,4 @@ echo "#deb http://gr.locosporlinux.com contutti main" >> /etc/apt/sources.list.d
 echo "#FRANCE" >> /etc/apt/sources.list.d/loc-os.list
 echo "#deb http://fr.locosporlinux.com contutti main" >> /etc/apt/sources.list.d/loc-os.list
 
+rm /etc/apt/sources.list.d/loc-os22.list
